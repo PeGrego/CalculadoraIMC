@@ -42,7 +42,9 @@ class MainActivity : AppCompatActivity() {
                 intent.putExtra(KEY_RESULT_IMC, resultado)
                 startActivity(intent)
 
-                println("Pedro acao do botao" + resultado)
+                // Cores
+                // EditText background + Icone
+                // Gradiente + icone + titulo + descricao
             }
 
 
